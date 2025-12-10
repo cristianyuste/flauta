@@ -1,0 +1,5 @@
+{
+  "name": "FlautaMaster AI",
+  "description": "Una aplicación interactiva para que estudiantes practiquen canciones de flauta dulce usando archivos MIDI, con visualización en tiempo real y consejos de IA.",
+  "requestFramePermissions": []
+}
